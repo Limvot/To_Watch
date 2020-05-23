@@ -21,6 +21,7 @@ Marcus, Nathan
 ---------------
 * Drifting Dragons
 * Food Wars
+* Samouri Champloo
 * Ghost in the Shell
     * The other Stand Alone Complex ones
     * Og movies
