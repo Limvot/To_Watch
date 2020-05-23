@@ -3,7 +3,7 @@ Neel, Marcus, Nathan
 ---------------------
 
 * x-6underground
-* Ghost in the shell
+* x-Ghost in the Shell SAC_2045
 * Alterend carbon
 * Altered carbon anime
 * jojo rabbit
