@@ -3,8 +3,8 @@ Neel, Marcus, Nathan
 ---------------------
 
 * x-6underground
-* x-Ghost in the Shell SAC_2045
-* Alterend carbon
+* x-Ghost in the Shell
+* x-Alterend carbon
 * Altered carbon anime
 * jojo rabbit
 * vilocapaster
@@ -14,12 +14,14 @@ Neel, Marcus, Nathan
 * Kims convience
 * Death of Stalin
 * neel stab - Devs
-* The Making of the Mandalorian
+* bloodletting - The Making of the Mandalorian
 * Godzill Anime Movies
     * 1
     * 2
     * 3
-* Bloodshot
+* x-Bloodshot
+* premptive stab - Halt and Catch Fire
+* x-The Old Guard
 
 
 Marcus, Nathan
@@ -31,4 +33,5 @@ Marcus, Nathan
     * The other Stand Alone Complex ones
     * Og movies
     * Arise?
+* Arifureta
 
