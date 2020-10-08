@@ -10,15 +10,15 @@ Neel, Marcus, Nathan
 * vilocapaster
 * jojos bizzare adventure
 * Futrue man
-* neel stab - Man like mobeen
+* x-Man like mobeen
 * Kims convience
 * Death of Stalin
 * neel stab - Devs
 * bloodletting - The Making of the Mandalorian
-* Godzill Anime Movies
-    * 1
-    * 2
-    * 3
+* x-Godzill Anime Movies
+    * x-1
+    * x-2
+    * x-3
 * x-Bloodshot
 * premptive stab - Halt and Catch Fire
 * x-The Old Guard
@@ -26,7 +26,7 @@ Neel, Marcus, Nathan
 
 Marcus, Nathan
 ---------------
-* Drifting Dragons
+* x-Drifting Dragons
 * Food Wars
 * Samouri Champloo
 * Ghost in the Shell
