@@ -7,7 +7,7 @@ Neel, Marcus, Nathan
 * x-Alterend carbon
 * Altered carbon anime
 * jojo rabbit
-* vilocapaster
+* x-vilocapaster
 * jojos bizzare adventure
 * Futrue man
 * x-Man like mobeen
@@ -22,6 +22,7 @@ Neel, Marcus, Nathan
 * x-Bloodshot
 * premptive stab - Halt and Catch Fire
 * x-The Old Guard
+* Maquette Game
 
 
 Marcus, Nathan
@@ -34,4 +35,8 @@ Marcus, Nathan
     * Og movies
     * Arise?
 * Arifureta
+
+Neel, Nathan
+------------
+* Pacifc Rim Anime
 
