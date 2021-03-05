@@ -23,6 +23,9 @@ Neel, Marcus, Nathan
 * premptive stab - Halt and Catch Fire
 * x-The Old Guard
 * Maquette Game
+* Appleseed Alpha
+* Mortal Engines
+* Valarian and the City of a Thousand Planets
 
 
 Marcus, Nathan
