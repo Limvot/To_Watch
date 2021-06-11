@@ -9,6 +9,13 @@ Neel, Marcus, Nathan
 * jojo rabbit
 * x-vilocapaster
 * jojos bizzare adventure
+    * x-Phantom Blood
+    * x-Battle Tendancy
+    * Stardust Crusaders
+    * Stsrdust Cdysaders Battle in Egypt
+    * Dimond is Unbreakable
+    * Golden Wind
+    * Stone Ocean
 * Futrue man
 * x-Man like mobeen
 * Kims convience
