@@ -1,14 +1,18 @@
 
+~~a~~
+
+~~This was mistaken text~~
+
 Neel, Marcus, Nathan
 ---------------------
 
-* ~~6underground
-* ~~Ghost in the Shell
-* ~~Alterend carbon
+* ~~6underground~~
+* ~~Ghost in the Shell~~
+* ~~Alterend carbon~~
 * Altered carbon anime
 * Bladerunner Black Lotus
 * jojo rabbit
-* ~~vilocapaster
+* ~~vilocapaster~~
 * jojos bizzare adventure
     * ~~Phantom Blood
     * ~~Battle Tendancy
