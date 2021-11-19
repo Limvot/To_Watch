@@ -35,9 +35,9 @@ Neel, Marcus, Nathan
 * Valarian and the City of a Thousand Planets
 * John Wick 1, 2 & 3
 * More Keanu Movies
-*     Point Break
-*        ~~Point Break 2015~~
-*     Johnonny Mnemonic
+   * Point Break
+   * ~~Point Break 2015~~
+   * Johnonny Mnemonic
 * MOrtal Engines
 * The Final Cut
 * MORtal Engines
