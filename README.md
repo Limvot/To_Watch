@@ -6,7 +6,7 @@ Neel, Marcus, Nathan
 * ~~Alterend carbon~~
 * Altered carbon anime
 * Bladerunner Black Lotus
-* jojo rabbit
+* ~~jojo rabbit~~
 * ~~vilocapaster~~
 * jojos bizzare adventure
     * ~~Phantom Blood~~
@@ -33,7 +33,7 @@ Neel, Marcus, Nathan
 * Appleseed Alpha
 * ~~Mortal Engines~~
 * Valarian and the City of a Thousand Planets
-* John Wick 1, 2 & 3
+* John Wick ~~1~~, 2 & 3
 * More Keanu Movies
    * Point Break
    * ~~Point Break 2015~~
