@@ -43,6 +43,7 @@ Neel, Marcus, Nathan
 * MORtal Engines
 * DOTA 2
 * Tron: Uprising
+* Into the Badlands
 
 
 Marcus, Nathan
