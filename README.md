@@ -19,7 +19,7 @@ Neel, Marcus, Nathan
 * Futrue man
 * ~~Man like mobeen~~
 * ~~Kims convience~~
-* Death of Stalin
+* ~~Death of Stalin~~
 * ~~neel stab - Devs~~
 * ~~bloodletting - The Making of the Mandalorian~~
 * ~~Godzill Anime Movies~~
