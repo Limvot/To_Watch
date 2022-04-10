@@ -1,3 +1,9 @@
+Fun Uncatagorized
+------------------
+
+* Aeon Flux
+* Equlibrium
+
 Neel, Marcus, Nathan
 ---------------------
 
@@ -37,7 +43,7 @@ Neel, Marcus, Nathan
 * More Keanu Movies
    * Point Break
    * ~~Point Break 2015~~
-   * Johnonny Mnemonic
+   * ~~Johnonny Mnemonic~~
 * MOrtal Engines
 * The Final Cut
 * MORtal Engines
@@ -50,6 +56,7 @@ Marcus, Nathan
 ---------------
 * ~~Drifting Dragons~~
 * Food Wars
+* ~~Ergo Proxy~~
 * Samouri Champloo
 * Ghost in the Shell
     * The other Stand Alone Complex ones
