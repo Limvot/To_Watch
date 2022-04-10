@@ -59,9 +59,16 @@ Marcus, Nathan
 * ~~Ergo Proxy~~
 * Samouri Champloo
 * Ghost in the Shell
-    * The other Stand Alone Complex ones
-    * Og movies
-    * Arise?
+    * OG
+         * Ghost in the Shell
+         * 2: Innocence
+    * Stand Alone Complex
+          * Ghost in the Shell: Stand Alone Complex
+          * Stand Alone Complex 2nd GIG
+          * S.A.C. Solid State Society
+          * ~~Ghost in the Shell: SAC_2045 S1~~
+          * Ghost in the Shell: SAC_2045 S2
+    * Arise OVAs
 * Arifureta
 
 Neel, Nathan
