@@ -55,7 +55,7 @@ Neel, Marcus, Nathan
 Marcus, Nathan
 ---------------
 * ~~Drifting Dragons~~
-* Food Wars
+* ~~Food Wars~~
 * ~~Ergo Proxy~~
 * Samouri Champloo
 * Ghost in the Shell
