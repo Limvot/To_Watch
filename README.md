@@ -1,8 +1,18 @@
 Fun Uncatagorized
 ------------------
 
-* Aeon Flux
+* ~~Aeon Flux~~
 * Equlibrium
+* UltraViolet
+* Gattaca
+* Mission Impossible
+    * 1
+    * ~~2~~
+    * 3
+    * 4
+    * 5
+    * 6
+
 
 Neel, Marcus, Nathan
 ---------------------
@@ -38,7 +48,7 @@ Neel, Marcus, Nathan
 * ~~Maquette Game~~
 * Appleseed Alpha
 * ~~Mortal Engines~~
-* Valarian and the City of a Thousand Planets
+* ~~Valarian and the City of a Thousand Planets~~
 * John Wick ~~1~~, 2 & 3
 * More Keanu Movies
    * Point Break
@@ -49,7 +59,7 @@ Neel, Marcus, Nathan
 * MORtal Engines
 * DOTA 2
 * Tron: Uprising
-* Into the Badlands
+* ~~Into the Badlands~~
 
 
 Marcus, Nathan
