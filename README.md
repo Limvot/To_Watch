@@ -12,14 +12,14 @@ Fun Uncatagorized
     * 4
     * 5
     * 6
+* Daredevil
+* Electra
+* Catwoman
 
 
 Neel, Marcus, Nathan
 ---------------------
 
-* Daredevil
-* Electra
-* Catwoman
 * ~~6underground~~
 * ~~Ghost in the Shell~~
 * ~~Alterend carbon~~
