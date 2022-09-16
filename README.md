@@ -17,6 +17,9 @@ Fun Uncatagorized
 Neel, Marcus, Nathan
 ---------------------
 
+* Daredevil
+* Electra
+* Catwoman
 * ~~6underground~~
 * ~~Ghost in the Shell~~
 * ~~Alterend carbon~~
