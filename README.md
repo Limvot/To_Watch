@@ -3,8 +3,8 @@ Fun Uncatagorized
 
 * ~~Aeon Flux~~
 * Equlibrium
-* UltraViolet
-* Gattaca
+* ~~UltraViolet~~
+* ~~Gattaca~~
 * Mission Impossible
     * 1
     * ~~2~~
