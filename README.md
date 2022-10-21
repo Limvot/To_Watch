@@ -2,11 +2,11 @@ Fun Uncatagorized
 ------------------
 
 * ~~Aeon Flux~~
-* Equlibrium
+* ~~Equlibrium~~
 * ~~UltraViolet~~
 * ~~Gattaca~~
 * Mission Impossible
-    * 1
+    * ~~1~~
     * ~~2~~
     * 3
     * 4
