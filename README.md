@@ -69,6 +69,8 @@ Neel, Marcus, Nathan
 * DOTA 2
 * Tron: Uprising
 * ~~Into the Badlands~~
+* Samouri Champloo
+
 
 
 Marcus, Nathan
@@ -76,7 +78,6 @@ Marcus, Nathan
 * ~~Drifting Dragons~~
 * ~~Food Wars~~
 * ~~Ergo Proxy~~
-* Samouri Champloo
 * Ghost in the Shell
     * OG
          * ~~Ghost in the Shell~~
