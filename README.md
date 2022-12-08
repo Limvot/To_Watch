@@ -34,6 +34,8 @@ Fun Uncatagorized
 * Electra
 * Catwoman
 * Belle (2021) (Ryū to Sobakasu no Hime)
+* Existenz (1999) 
+* Slipstream (1989, Mark Hamill)
 
 Neel, Marcus, Nathan
 ---------------------
