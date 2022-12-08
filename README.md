@@ -33,7 +33,7 @@ Fun Uncatagorized
 * Daredevil
 * Electra
 * Catwoman
-
+* Belle (2021)
 
 Neel, Marcus, Nathan
 ---------------------
@@ -50,7 +50,7 @@ Neel, Marcus, Nathan
     * ~~Phantom Blood~~
     * ~~Battle Tendancy~~
     * ~~Stardust Crusaders~~
-    * ~~Stsrdust Cdysaders Battle in Egypt~~
+    * ~~Stardust Cdysaders Battle in Egypt~~
     * Dimond is Unbreakable
     * Golden Wind
     * Stone Ocean
@@ -76,7 +76,7 @@ Neel, Marcus, Nathan
    * Point Break
    * ~~Point Break 2015~~
    * ~~Johnonny Mnemonic~~
-* MOrtal Engines
+* ~~MOrtal Engines~~
 * The Final Cut
 * MORtal Engines
 * DOTA 2
