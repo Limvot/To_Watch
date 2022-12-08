@@ -33,7 +33,7 @@ Fun Uncatagorized
 * Daredevil
 * Electra
 * Catwoman
-* Belle (2021)
+* Belle (2021) (Ryū to Sobakasu no Hime)
 
 Neel, Marcus, Nathan
 ---------------------
