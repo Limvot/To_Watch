@@ -30,7 +30,7 @@ Fun Uncatagorized
     * 4
     * 5
     * 6
-* Daredevil
+* ~~Daredevil~~
 * Electra
 * Catwoman
 * Belle (2021) (Ryū to Sobakasu no Hime)
