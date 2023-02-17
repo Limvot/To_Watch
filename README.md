@@ -16,7 +16,7 @@ Fun Uncatagorized
 * Moonfall
 * The Shark Side of the Moon
 * Sonic
-    * 1
+    * ~~1~~
     * 2
 * Rashomon
 * ~~Aeon Flux~~
@@ -33,12 +33,12 @@ Fun Uncatagorized
 * ~~Daredevil~~
 * Electra
 * Catwoman
-* Belle (2021) (Ryū to Sobakasu no Hime)
+* ~~Belle (2021) (Ryū to Sobakasu no Hime)~~
 * Existenz (1999) 
 * Slipstream (1989, Mark Hamill)
 
 
-Neel, Laura, Nathan
+Neel, Laura, Nathan, Pratik
 ---------------------
 
 * Oceans 11
