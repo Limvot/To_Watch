@@ -7,7 +7,7 @@ Fun Uncatagorized
 ------------------
 * Underworld
     * ~~1~~
-    * 2 - Evolution
+    * ~~2 - Evolution~~
     * 3 - Rise of the Lycans
     * 4 - Awakening
     * 5 - Blood Wars
@@ -36,8 +36,8 @@ Fun Uncatagorized
 * ~~Belle (2021) (Ryū to Sobakasu no Hime)~~
 * Existenz (1999) 
 * Slipstream (1989, Mark Hamill)
-* Super MArio Bros Movie
-* Kubo and the Two Strings
+* Super Mario Bros Movie
+* Kubo & the Two Strings (Everyone has seen)
 
 
 Neel, Laura, Nathan, Pratik
