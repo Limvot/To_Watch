@@ -36,6 +36,8 @@ Fun Uncatagorized
 * ~~Belle (2021) (Ryū to Sobakasu no Hime)~~
 * Existenz (1999) 
 * Slipstream (1989, Mark Hamill)
+* Super MArio Bros Movie
+* Kubo and the Two Strings
 
 
 Neel, Laura, Nathan, Pratik
