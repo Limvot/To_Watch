@@ -1,23 +1,23 @@
 People Missing
 --------------
-* Back to the Future (I)
+* ~~Back to the Future (I)~~
 * ~~Fight Club (Na,L,I,M)~~
 
 Fun Uncatagorized
 ------------------
 * Underworld
-    * 1
+    * ~~1~~
     * 2 - Evolution
     * 3 - Rise of the Lycans
     * 4 - Awakening
     * 5 - Blood Wars
-* Don
+* ~~Don~~
 * Moon
 * Moonfall
 * The Shark Side of the Moon
 * Sonic
     * ~~1~~
-    * 2
+    * ~~2~~
 * Rashomon
 * ~~Aeon Flux~~
 * ~~Equlibrium~~
@@ -32,7 +32,7 @@ Fun Uncatagorized
     * 6
 * ~~Daredevil~~
 * Electra
-* Catwoman
+* ~~Catwoman~~
 * ~~Belle (2021) (Ryū to Sobakasu no Hime)~~
 * Existenz (1999) 
 * Slipstream (1989, Mark Hamill)
@@ -41,7 +41,7 @@ Fun Uncatagorized
 Neel, Laura, Nathan, Pratik
 ---------------------
 
-* Oceans 11
+* ~~Oceans 11~~
 
 Neel, Marcus, Nathan
 ---------------------
@@ -51,7 +51,7 @@ Neel, Marcus, Nathan
 * ~~Alterend carbon~~
 * Altered carbon anime
 * Bladerunner Black Lotus
-* Cyberpunk: Edgerunners
+* ~~Cyberpunk: Edgerunners~~
 * ~~jojo rabbit~~
 * ~~vilocapaster~~
 * jojos bizzare adventure
@@ -79,7 +79,7 @@ Neel, Marcus, Nathan
 * Appleseed Alpha
 * ~~Mortal Engines~~
 * ~~Valarian and the City of a Thousand Planets~~
-* John Wick ~~1~~, ~~2~~ & ~~3~~
+* John Wick ~~1~~, ~~2~~ & ~~3~~ & ~~4~~
 * More Keanu Movies
    * Point Break
    * ~~Point Break 2015~~
