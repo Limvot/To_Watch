@@ -2,10 +2,14 @@ People Missing
 --------------
 * ~~Back to the Future (I)~~
 * ~~Fight Club (Na,L,I,M)~~
-* 300 (M, S, Na, L)
+* ~300 (M, S, Na, L)~
 
 Fun Uncatagorized
 ------------------
+* Police Story 2
+* Jet Li movies
+* Enter the Dragon
+* Rush Hour 1&2
 * Underworld
     * ~~1~~
     * ~~2 - Evolution~~
@@ -37,7 +41,7 @@ Fun Uncatagorized
 * ~~Belle (2021) (Ryū to Sobakasu no Hime)~~
 * Existenz (1999) 
 * Slipstream (1989, Mark Hamill)
-* Super Mario Bros Movie
+* ~Super Mario Bros Movie~
 * Kubo & the Two Strings (Everyone has seen)
 
 
