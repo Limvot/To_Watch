@@ -1,59 +1,6 @@
-People Missing
---------------
-* ~~Back to the Future (I)~~
-* ~~Fight Club (Na,L,I,M)~~
-* ~300 (M, S, Na, L)~
 
-Fun Uncatagorized
-------------------
-* Austin Powers (& sequal(s))
-* Police Story 2
-* Jet Li movies
-* Enter the Dragon
-* Rush Hour 1&2
-* Underworld
-    * ~~1~~
-    * ~~2 - Evolution~~
-    * 3 - Rise of the Lycans
-    * 4 - Awakening
-    * 5 - Blood Wars
-* ~~Don~~
-* Moon
-* Moonfall
-* The Shark Side of the Moon
-* Sonic
-    * ~~1~~
-    * ~~2~~
-* Rashomon
-* ~~Aeon Flux~~
-* ~~Equlibrium~~
-* ~~UltraViolet~~
-* ~~Gattaca~~
-* Mission Impossible
-    * ~~1~~
-    * ~~2~~
-    * 3
-    * 4
-    * 5
-    * 6
-* ~~Daredevil~~
-* Electra
-* ~~Catwoman~~
-* ~~Belle (2021) (Ryū to Sobakasu no Hime)~~
-* Existenz (1999) 
-* Slipstream (1989, Mark Hamill)
-* ~Super Mario Bros Movie~
-* Kubo & the Two Strings (Everyone has seen)
-
-
-
-Neel, Laura, Nathan, Pratik
----------------------
-
-* ~~Oceans 11~~
-
-Neel, Marcus, Nathan
----------------------
+Marcus, Neel, Nathan, Pratik
+--------------------
 
 * ~~6underground~~
 * ~~Ghost in the Shell~~
@@ -101,10 +48,6 @@ Neel, Marcus, Nathan
 * ~~Into the Badlands~~
 * Samouri Champloo
 
-
-
-Marcus, Nathan
----------------
 * ~~Drifting Dragons~~
 * ~~Food Wars~~
 * ~~Ergo Proxy~~
@@ -120,13 +63,5 @@ Marcus, Nathan
          * Ghost in the Shell: SAC_2045 S2
     * Arise OVAs
 * Arifureta
-
-Neel, Nathan
-------------
 * Pacifc Rim Anime
-
-
-Laura
-------------
-* Clerks
 
